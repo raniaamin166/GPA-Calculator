@@ -1,0 +1,3 @@
+# Requirements for GPA & CGPA Streamlit App
+streamlit
+pandas
